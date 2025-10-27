@@ -4,6 +4,11 @@ A CLI boilerplate generator for SvelteKit projects using modular fragments.
 Install a fresh SvelteKit app and enrich it with optional features like auth,
 UI libraries, state management, and more — all from one command.
 
+🌐 ## Landing Page
+[https://svelteforge.lelab.dev/](https://svelteforge.lelab.dev/)
+
+---
+
 ---
 
 ## 🚀 How It Works
@@ -125,5 +130,7 @@ MIT — build cool things and share freely!
 
 ---
 
+Created by [LeLab](https://lelab.dev)  
+Code & issues: [github.com/lelab](https://github.com/lelab)
 Created by [LeLab](https://lelab.dev)  
 Code & issues: [github.com/lelab](https://github.com/lelab)
